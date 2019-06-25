@@ -20,7 +20,7 @@ class LEDController final
 
 public:
 
-	static constexpr uint8_t LED_COUNT = 4;
+	static constexpr uint8_t LED_COUNT = 5;
 
 
 	using LEDBuffer_T = CRGB[LED_COUNT];
