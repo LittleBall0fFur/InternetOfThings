@@ -20,11 +20,19 @@ inline uint16_t RGBElementToPWMTicks(const uint8_t element) noexcept
 	return (element / 255.0) * 4095;
 }
 
+template<typename T>
+inline T clamp(const T& value, const T& min, const T& max)
+{
+	return (value < min) ? min :
+	       (value > max) ? max : value;
+}
+
 }
 
 LEDController::LEDController(TwoWire& i2c) noexcept
 	:	m_ledDriver{ i2c },
-		m_ledBuffer{ 0, 0, 0 }
+		m_ledBuffer{},
+		m_brightness{ DEFAULT_BRIGHTNESS }
 {
 	//Empty.
 }
@@ -59,6 +67,16 @@ void LEDController::setAllLEDs(const LEDBuffer_T& new_ledBuffer) noexcept
 	}
 }
 
+float LEDController::getBrightness(void) const noexcept
+{
+	return m_brightness;
+}
+
+void LEDController::setBrightness(const float new_brightness) noexcept
+{
+	m_brightness = clamp(new_brightness, 0.0F, 1.0F);
+}
+
 
 void LEDController::update(void) noexcept
 {
@@ -68,7 +86,7 @@ void LEDController::update(void) noexcept
 	{
 		for (auto element : led.raw)
 		{
-			m_ledDriver.setChannelPWM(current_channel++, RGBElementToPWMTicks(element));
+			m_ledDriver.setChannelPWM(current_channel++, RGBElementToPWMTicks(element) * m_brightness);
 		}
 	}
 }

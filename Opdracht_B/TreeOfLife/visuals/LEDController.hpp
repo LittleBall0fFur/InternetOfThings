@@ -21,6 +21,7 @@ class LEDController final
 public:
 
 	static constexpr uint8_t LED_COUNT = 5;
+	static constexpr float DEFAULT_BRIGHTNESS = 0.75;
 
 
 	using LEDBuffer_T = CRGB[LED_COUNT];
@@ -55,6 +56,9 @@ public:
 	const LEDBuffer_T& getAllLEDs(void) const noexcept;
 	void setAllLEDs(const LEDBuffer_T& new_ledBuffer) noexcept;
 
+	float getBrightness(void) const noexcept;
+	void setBrightness(float new_brightness) noexcept;
+
 	/**
 	 *	Update LED display.
 	 *
@@ -68,7 +72,9 @@ public:
 private:
 
 	PCA9685 m_ledDriver;
+
 	LEDBuffer_T m_ledBuffer;
+	float m_brightness;
 
 };
 
