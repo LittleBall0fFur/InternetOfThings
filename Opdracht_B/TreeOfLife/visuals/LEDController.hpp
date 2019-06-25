@@ -23,7 +23,7 @@ public:
 	static constexpr uint8_t LED_COUNT = 4;
 
 
-	CRGB ledBuffer[LED_COUNT];
+	using LEDBuffer_T = CRGB[LED_COUNT];
 
 
 	/**
@@ -45,14 +45,20 @@ public:
 	 *
 	 *	This function must be called within the Arduino 'setup' function, directly or indirectly (e.g. by a function called from within 'setup').
 	 *
-	 *	@param i2cAddress The I2C address of the internal LED driver.
+	 *	@param i2cAddress The I2C address of the LED driver.
 	 */
 	void begin(uint8_t i2cAddress = 0) noexcept;
+
+	const CRGB& getLED(uint8_t n) const noexcept;
+	void setLED(uint8_t n, const CRGB& new_value) noexcept;
+
+	const LEDBuffer_T& getAllLEDs(void) const noexcept;
+	void setAllLEDs(const LEDBuffer_T& new_ledBuffer) noexcept;
 
 	/**
 	 *	Update LED display.
 	 *
-	 *	Writes all data from the buffer to the internal LED driver.
+	 *	Writes all data from the buffer to the LED driver.
 	 */
 	void update(void) noexcept;
 
@@ -62,6 +68,7 @@ public:
 private:
 
 	PCA9685 m_ledDriver;
+	LEDBuffer_T m_ledBuffer;
 
 };
 
