@@ -1,0 +1,210 @@
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\bin\Debug\DomoticaT.dll
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\bin\Debug\DomoticaT.pdb
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\bin\Debug\Domotica.Domotica.apk
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\bin\Debug\Domotica.Domotica-Signed.apk
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\bin\Debug\DomoticaT.dll.mdb
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\bin\Debug\Mono.Android.pdb
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\bin\Debug\mscorlib.pdb
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\bin\Debug\System.Core.pdb
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\bin\Debug\System.pdb
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\bin\Debug\System.Xml.pdb
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\bin\Debug\System.Xml.Linq.pdb
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\bin\Debug\System.Net.Http.pdb
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\bin\Debug\Mono.Security.pdb
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\build.props
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\adb.props
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\Domotica.csprojAssemblyReference.cache
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\libraryimports.cache.stamp
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\resourcepaths.cache
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\res.flag
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\Domotica.csproj.CoreCompileInputs.cache
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\DomoticaT.dll
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\DomoticaT.pdb
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\android\bin\Domotica.Domotica.apk
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\res\layout\main.xml
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\res\values\strings.xml
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\res\drawable\icon.png
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\res\menu\menu.xml
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\R.cs.flag
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\R.txt
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\uploadflags.txt
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\resolvedassemblies.hash
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\linksrc\DomoticaT.dll
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\linksrc\Java.Interop.dll
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\linksrc\Mono.Android.dll
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\linksrc\mscorlib.dll
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\linksrc\System.Core.dll
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\linksrc\System.dll
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\linksrc\System.Xml.dll
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\linksrc\System.Xml.Linq.dll
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\linksrc\System.Net.Http.dll
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\linksrc\System.Runtime.Serialization.dll
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\linksrc\System.ServiceModel.Internals.dll
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\linksrc\Mono.Security.dll
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\linksrc\Mono.Android.pdb
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\linksrc\mscorlib.pdb
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\linksrc\System.Core.pdb
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\linksrc\System.pdb
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\linksrc\System.Xml.pdb
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\linksrc\System.Xml.Linq.pdb
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\linksrc\System.Net.Http.pdb
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\linksrc\System.Runtime.Serialization.pdb
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\linksrc\Mono.Security.pdb
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\linksrc\DomoticaT.dll.mdb
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\link.flag
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\android\assets\DomoticaT.dll
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\android\assets\DomoticaT.dll.mdb
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\android\assets\Java.Interop.dll
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\android\assets\Mono.Android.dll
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\android\assets\Mono.Android.pdb
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\android\assets\Mono.Security.dll
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\android\assets\Mono.Security.pdb
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\android\assets\mscorlib.dll
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\android\assets\mscorlib.pdb
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\android\assets\System.Core.dll
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\android\assets\System.Core.pdb
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\android\assets\System.dll
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\android\assets\System.Net.Http.dll
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\android\assets\System.Net.Http.pdb
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\android\assets\System.pdb
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\android\assets\System.Runtime.Serialization.dll
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\android\assets\System.Runtime.Serialization.pdb
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\android\assets\System.ServiceModel.Internals.dll
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\android\assets\System.Xml.dll
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\android\assets\System.Xml.Linq.dll
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\android\assets\System.Xml.Linq.pdb
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\android\assets\System.Xml.pdb
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\android\src\mono\android\Seppuku.java
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\android\src\mono\android\app\NotifyTimeZoneChanges.java
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\android\assets\machine.config
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\android\bin\mono.android.jar
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\static.flag
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\android\src\mono\MonoRuntimeProvider.java
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\buildid.txt
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\android\src\mono\android\app\ApplicationRegistration.java
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\android\src\mono\android\app\XamarinAndroidEnvironmentVariables.java
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\android\src\mono\MonoPackageManager.java
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\android\src\md5fe515dc41fac4b13efb50aa7517b29b1\MainActivity.java
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\android\bin\packaged_resources
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\android\src\domotica\domotica\R.java
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\android\bin\classes.dex
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\stamp\_BuildAdditionalResourcesCache.stamp
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\stamp\_CompileToDalvik.stamp
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\stamp\_CopyIntermediateAssemblies.stamp
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\stamp\_CopyMdbFiles.stamp
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\stamp\_CopyPdbFiles.stamp
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\android\assets\System.ComponentModel.Composition.dll
+C:\Users\Sander Albers\Desktop\School\HBO-ICT\J1\P4\Domotica\opdracht_a\DomoticaT\Domotica\obj\Debug\90\android\assets\System.Runtime.dll
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\bin\Debug\DomoticaT.dll
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\bin\Debug\DomoticaT.pdb
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\bin\Debug\Domotica.Domotica.apk
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\bin\Debug\Domotica.Domotica-Signed.apk
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\bin\Debug\DomoticaT.dll.mdb
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\bin\Debug\Mono.Android.pdb
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\bin\Debug\mscorlib.pdb
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\bin\Debug\System.Core.pdb
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\bin\Debug\System.pdb
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\bin\Debug\System.Xml.pdb
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\bin\Debug\System.Xml.Linq.pdb
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\bin\Debug\System.Net.Http.pdb
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\bin\Debug\System.Runtime.Serialization.pdb
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\bin\Debug\System.ServiceModel.Internals.pdb
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\bin\Debug\Mono.Security.pdb
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\build.props
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\adb.props
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\Domotica.csprojAssemblyReference.cache
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\libraryimports.cache.stamp
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\resourcepaths.cache
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\res.flag
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\Domotica.csproj.CoreCompileInputs.cache
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\DomoticaT.dll
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\DomoticaT.pdb
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\android\bin\Domotica.Domotica.apk
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\res\layout\main.xml
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\res\values\strings.xml
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\res\drawable\icon.png
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\res\menu\menu.xml
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\R.cs.flag
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\R.txt
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\uploadflags.txt
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\resolvedassemblies.hash
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\linksrc\DomoticaT.dll
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\linksrc\Java.Interop.dll
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\linksrc\Mono.Android.dll
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\linksrc\mscorlib.dll
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\linksrc\System.Core.dll
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\linksrc\System.dll
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\linksrc\System.Xml.dll
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\linksrc\System.Xml.Linq.dll
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\linksrc\System.Net.Http.dll
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\linksrc\System.Runtime.Serialization.dll
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\linksrc\System.ServiceModel.Internals.dll
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\linksrc\Mono.Security.dll
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\linksrc\Mono.Android.pdb
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\linksrc\mscorlib.pdb
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\linksrc\System.Core.pdb
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\linksrc\System.pdb
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\linksrc\System.Xml.pdb
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\linksrc\System.Xml.Linq.pdb
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\linksrc\System.Net.Http.pdb
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\linksrc\System.Runtime.Serialization.pdb
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\linksrc\System.ServiceModel.Internals.pdb
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\linksrc\Mono.Security.pdb
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\linksrc\DomoticaT.dll.mdb
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\link.flag
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\android\assets\DomoticaT.dll
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\android\assets\DomoticaT.dll.mdb
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\android\assets\Java.Interop.dll
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\android\assets\machine.config
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\android\assets\Mono.Android.dll
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\android\assets\Mono.Android.pdb
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\android\assets\Mono.Security.dll
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\android\assets\Mono.Security.pdb
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\android\assets\mscorlib.dll
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\android\assets\mscorlib.pdb
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\android\assets\System.ComponentModel.Composition.dll
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\android\assets\System.Core.dll
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\android\assets\System.Core.pdb
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\android\assets\System.dll
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\android\assets\System.Net.Http.dll
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\android\assets\System.Net.Http.pdb
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\android\assets\System.pdb
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\android\assets\System.Runtime.dll
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\android\assets\System.Runtime.Serialization.dll
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\android\assets\System.Runtime.Serialization.pdb
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\android\assets\System.ServiceModel.Internals.dll
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\android\assets\System.ServiceModel.Internals.pdb
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\android\assets\System.Xml.dll
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\android\assets\System.Xml.Linq.dll
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\android\assets\System.Xml.Linq.pdb
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\android\assets\System.Xml.pdb
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\android\src\mono\MonoRuntimeProvider.java
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\android\src\mono\android\Seppuku.java
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\android\src\mono\android\app\NotifyTimeZoneChanges.java
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\android\bin\mono.android.jar
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\static.flag
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\buildid.txt
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\android\src\mono\android\app\ApplicationRegistration.java
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\android\src\mono\android\app\XamarinAndroidEnvironmentVariables.java
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\android\src\mono\MonoPackageManager.java
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\android\src\md5fe515dc41fac4b13efb50aa7517b29b1\MainActivity.java
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\android\src\domotica\domotica\R.java
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\android\bin\packaged_resources
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\android\bin\classes.dex
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\stamp\_BuildAdditionalResourcesCache.stamp
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\stamp\_CompileToDalvik.stamp
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\stamp\_CopyIntermediateAssemblies.stamp
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\stamp\_CopyMdbFiles.stamp
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\stamp\_CopyPdbFiles.stamp
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp

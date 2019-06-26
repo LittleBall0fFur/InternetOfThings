@@ -1,0 +1,12 @@
+Button;obj\Debug\90\res\layout\main.xml
+EditText;obj\Debug\90\res\layout\main.xml
+item;obj\Debug\90\res\menu\menu.xml
+LinearLayout;obj\Debug\90\res\layout\main.xml
+menu;obj\Debug\90\res\menu\menu.xml
+NumberPicker;obj\Debug\90\res\layout\main.xml
+RelativeLayout;obj\Debug\90\res\layout\main.xml
+resources;obj\Debug\90\res\values\strings.xml
+ScrollView;obj\Debug\90\res\layout\main.xml
+string;obj\Debug\90\res\values\strings.xml
+TextView;obj\Debug\90\res\layout\main.xml
+View;obj\Debug\90\res\layout\main.xml
