@@ -40,6 +40,6 @@ struct Color final
 }
 
 //Include implementation to allow inlining.
-#include "Color.ipp"
+#include "Color.cpp"
 
 #endif

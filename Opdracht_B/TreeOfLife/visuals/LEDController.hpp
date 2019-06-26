@@ -77,6 +77,6 @@ private:
 }
 
 //Include implementation to allow inlining.
-#include "LEDController.ipp"
+#include "LEDController.cpp"
 
 #endif

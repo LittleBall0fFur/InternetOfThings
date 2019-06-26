@@ -18,6 +18,6 @@ void LEDController_update(void);
 }
 
 //Include implementation to allow inlining.
-#include "wrapper/LEDController.ipp"
+#include "wrapper/LEDController.cpp"
 
 #endif
