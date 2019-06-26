@@ -1,0 +1,12 @@
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\android\assets\DomoticaT.dll
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\android\assets\Java.Interop.dll
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\android\assets\Mono.Android.dll
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\android\assets\mscorlib.dll
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\android\assets\System.Core.dll
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\android\assets\System.dll
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\android\assets\System.Xml.dll
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\android\assets\System.Xml.Linq.dll
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\android\assets\System.Net.Http.dll
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\android\assets\System.Runtime.Serialization.dll
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\android\assets\System.ServiceModel.Internals.dll
+D:\Documents\School\Periode 4 - Internet of Things\Domotica\InternetOfThings\Opdracht_A\DomoticaT\Domotica\obj\Debug\90\android\assets\Mono.Security.dll

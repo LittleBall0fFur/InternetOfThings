@@ -1,0 +1,3 @@
+Domotica.MainActivity, DomoticaT;md5fe515dc41fac4b13efb50aa7517b29b1.MainActivity
+Domotica.MainActivity;md5fe515dc41fac4b13efb50aa7517b29b1.MainActivity
+domotica.MainActivity;md5fe515dc41fac4b13efb50aa7517b29b1.MainActivity
