@@ -1,5 +1,5 @@
-#ifndef YGGDRASIL_WRAPPER_LEDCONTROLLER_HEADER
-#define YGGDRASIL_WRAPPER_LEDCONTROLLER_HEADER
+#ifndef YGGDRASIL_INTERFACE_LEDCONTROLLER_HEADER
+#define YGGDRASIL_INTERFACE_LEDCONTROLLER_HEADER
 
 #include "visuals/Color.hpp"
 #include "visuals/LEDController.hpp"
@@ -18,6 +18,6 @@ void LEDController_update(void);
 }
 
 //Include implementation to allow inlining.
-#include "wrapper/LEDController.cpp"
+#include "interface/LEDController.cpp"
 
 #endif
