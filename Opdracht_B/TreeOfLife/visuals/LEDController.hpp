@@ -5,7 +5,7 @@
 #include <Arduino.h>
 #include <Wire.h>
 
-/* EXTERMAL ARDUINO LIBRARIES */
+/* EXTERNAL ARDUINO LIBRARIES */
 #include <FastLED.h>
 #include <PCA9685.h>
 
@@ -50,6 +50,7 @@ public:
 	 */
 	void begin(uint8_t i2cAddress = 0) noexcept;
 
+
 	const CRGB& getLED(uint8_t n) const noexcept;
 	void setLED(uint8_t n, const CRGB& new_value) noexcept;
 
@@ -58,6 +59,7 @@ public:
 
 	float getBrightness(void) const noexcept;
 	void setBrightness(float new_brightness) noexcept;
+
 
 	/**
 	 *	Update LED display.
