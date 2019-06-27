@@ -1,6 +1,8 @@
 #ifndef YGGDRASIL_INTERFACE_LEDCONTROLLER_HEADER
 #define YGGDRASIL_INTERFACE_LEDCONTROLLER_HEADER
 
+#include <cstdint>
+
 #include "visuals/Color.hpp"
 #include "visuals/LEDController.hpp"
 using namespace yggdrasil::visuals;

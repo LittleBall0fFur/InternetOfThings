@@ -1,6 +1,8 @@
 #ifndef YGGDRASIL_VISUALS_LEDCONTROLLER_HEADER
 #define YGGDRASIL_VISUALS_LEDCONTROLLER_HEADER
 
+#include <cstdint>
+
 #include <wiringPi.h>
 
 #include "hardware/pca9685.h"

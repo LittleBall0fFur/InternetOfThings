@@ -1,6 +1,8 @@
 #ifndef YGGDRASIL_VISUALS_COLOR_HEADER
 #define YGGDRASIL_VISUALS_COLOR_HEADER
 
+#include <cstdint>
+
 namespace yggdrasil
 {
 
