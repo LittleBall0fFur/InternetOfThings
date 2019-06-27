@@ -1,13 +1,12 @@
 #ifndef YGGDRASIL_VISUALS_LEDCONTROLLER_HEADER
 #define YGGDRASIL_VISUALS_LEDCONTROLLER_HEADER
 
-/* INTERNAL ARDUINO LIBRARIES */
-#include <Arduino.h>
-#include <Wire.h>
+#include <cstdint>
 
-/* EXTERMAL ARDUINO LIBRARIES */
-#include <FastLED.h>
-#include <PCA9685.h>
+#include <wiringPi.h>
+
+#include "hardware/pca9685.h"
+#include "visuals/Color.hpp"
 
 namespace yggdrasil
 {
@@ -20,19 +19,21 @@ class LEDController final
 
 public:
 
+	static constexpr uint8_t DEFAULT_ADDRESS = 0x40;
+
 	static constexpr uint8_t LED_COUNT = 5;
 	static constexpr float DEFAULT_BRIGHTNESS = 0.75;
 
 
-	using LEDBuffer_T = CRGB[LED_COUNT];
+	using LEDBuffer_T = Color[LED_COUNT];
 
 
 	/**
 	 *	LEDController Constructor
 	 *
-	 *	@param i2c The 'TwoWire' instance through which the class communicates with the LED Driver. Can be omitted, unless a specific 'TwoWire' instance has to be used.
+	 *	@param i2cAddress The I2C Address of the PCA9685 LED Driver. Only required when the address has been changed manually.
 	 */
-	LEDController(TwoWire& i2c = Wire) noexcept;
+	LEDController(uint8_t i2cAddress = DEFAULT_ADDRESS) noexcept;
 
 	LEDController(const LEDController&) = delete;
 	LEDController(LEDController&&) = default;
@@ -41,17 +42,8 @@ public:
 	LEDController& operator=(LEDController&&) = default;
 
 
-	/**
-	 *	Start hardware communication.
-	 *
-	 *	This function must be called within the Arduino 'setup' function, directly or indirectly (e.g. by a function called from within 'setup').
-	 *
-	 *	@param i2cAddress The I2C address of the LED driver.
-	 */
-	void begin(uint8_t i2cAddress = 0) noexcept;
-
-	const CRGB& getLED(uint8_t n) const noexcept;
-	void setLED(uint8_t n, const CRGB& new_value) noexcept;
+	const Color& getLED(uint8_t n) const noexcept;
+	void setLED(uint8_t n, const Color& new_value) noexcept;
 
 	const LEDBuffer_T& getAllLEDs(void) const noexcept;
 	void setAllLEDs(const LEDBuffer_T& new_ledBuffer) noexcept;
@@ -71,7 +63,11 @@ public:
 
 private:
 
-	PCA9685 m_ledDriver;
+	static constexpr uint16_t PIN_BASE = 300;
+	static constexpr float FREQUENCY = 200.0F;
+
+
+	int m_pca9685Accessor;
 
 	LEDBuffer_T m_ledBuffer;
 	float m_brightness;

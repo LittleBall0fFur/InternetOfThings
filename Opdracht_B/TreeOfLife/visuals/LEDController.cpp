@@ -29,27 +29,26 @@ inline T clamp(const T& value, const T& min, const T& max)
 
 }
 
-LEDController::LEDController(TwoWire& i2c) noexcept
-	:	m_ledDriver{ i2c },
-		m_ledBuffer{},
+LEDController::LEDController(const uint8_t i2cAddress) noexcept
+	:	m_ledBuffer{},
 		m_brightness{ DEFAULT_BRIGHTNESS }
 {
-	//Empty.
+	//Ensure WiringPi is setup.
+	wiringPiSetup();
+
+	m_pca9685FileDescriptor = pca9685Setup(PIN_BASE, i2cAddress, FREQUENCY);
+
+	//Ensure LED's are off.
+	pca9685PWMReset(m_pca9685FileDescriptor);
 }
 
 
-void LEDController::begin(const uint8_t i2cAddress) noexcept
-{
-	m_ledDriver.init(i2cAddress);
-}
-
-
-const CRGB& LEDController::getLED(const uint8_t n) const noexcept
+const Color& LEDController::getLED(const uint8_t n) const noexcept
 {
 	return m_ledBuffer[n];
 }
 
-void LEDController::setLED(const uint8_t n, const CRGB& new_value) noexcept
+void LEDController::setLED(const uint8_t n, const Color& new_value) noexcept
 {
 	m_ledBuffer[n] = new_value;
 }
@@ -77,7 +76,6 @@ void LEDController::setBrightness(const float new_brightness) noexcept
 	m_brightness = clamp(new_brightness, 0.0F, 1.0F);
 }
 
-
 void LEDController::update(void) noexcept
 {
 	uint8_t current_channel = 0;
@@ -86,7 +84,7 @@ void LEDController::update(void) noexcept
 	{
 		for (auto element : led.raw)
 		{
-			m_ledDriver.setChannelPWM(current_channel++, RGBElementToPWMTicks(element) * m_brightness);
+			pca9685PWMWrite(m_pca9685FileDescriptor, current_channel++, 0, RGBElementToPWMTicks(element) * m_brightness);
 		}
 	}
 }
