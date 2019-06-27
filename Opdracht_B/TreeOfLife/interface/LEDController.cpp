@@ -3,36 +3,41 @@
 
 #include "interface/LEDController.hpp"
 
-namespace /* IMPLEMENTATION DETAILS */
+LEDController* LEDController_create(const int i2cAddress)
 {
-
-LEDController ledController{};
-
+	return new LEDController{ i2cAddress };
 }
 
-int LEDController_getLED(int n)
+
+int LEDController_getLED(const LEDController* instance, int n)
 {
-	return static_cast<uint32_t>(ledController.getLED(n));
+	return static_cast<uint32_t>(instance->getLED(n));
 }
 
-void LEDController_setLED(int n, int color)
+void LEDController_setLED(LEDController* instance, int n, int color)
 {
-	ledController.setLED(n, Color{ color });
+	instance->setLED(n, Color{ color });
 }
 
-float LEDController_getBrightness(void)
+float LEDController_getBrightness(const LEDController* instance)
 {
-	return ledController.getBrightness();
+	return instance->getBrightness();
 }
 
-void LEDController_setBrightness(float new_brightness)
+void LEDController_setBrightness(LEDController* instance, float new_brightness)
 {
-	ledController.setBrightness(new_brightness);
+	instance->setBrightness(new_brightness);
 }
 
-void LEDController_update(void)
+void LEDController_update(LEDController* instance)
 {
-	ledController.update();
+	instance->update();
+}
+
+
+void LEDController_delete(LEDController* instance)
+{
+	delete instance;
 }
 
 #endif

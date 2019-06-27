@@ -3,17 +3,24 @@
 
 #include "visuals/Color.hpp"
 #include "visuals/LEDController.hpp"
+using namespace yggdrasil::visuals;
 
 extern "C"
 {
 
-int LEDController_getLED(int n);
-void LEDController_setLED(int n, int color);
+LEDController* LEDController_create(int i2cAddress = LEDController::DEFAULT_ADDRESS);
 
-float LEDController_getBrightness(void);
-void LEDController_setBrightness(float new_brightness);
 
-void LEDController_update(void);
+int LEDController_getLED(const LEDController* instance, int n);
+void LEDController_setLED(LEDController* instance, int n, int color);
+
+float LEDController_getBrightness(const LEDController* instance);
+void LEDController_setBrightness(LEDController* instance, float new_brightness);
+
+void LEDController_update(LEDController* instance);
+
+
+void LEDController_delete(LEDController* instance);
 
 }
 
